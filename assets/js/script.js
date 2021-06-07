@@ -11,3 +11,6 @@ const historyEl = document.getElementById("history");
 var extendedEl = document.getElementById("extended");
 var todayweatherEl = document.getElementById("today-weather");
 let searchHistory = JSON.parse(localStorage.getItem("search")) || [];
+
+// API key from openweather
+const APIKey = "5220969d45bf815138dea8d912ed0803";

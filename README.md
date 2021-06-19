@@ -13,7 +13,7 @@ Build a weather dashboard using the OpenWeather API.
 
 ## Deployed Link and Screenshot
 
-[Weather Dashboard](https://jamiekaczor.github.io/weatherDashboard/)
+[Weather Dashboard](https://jamiekaczor.github.io/weatherDash/)
 ![screenshot](./assets/images/weathdash.png)
 
 ## Questions

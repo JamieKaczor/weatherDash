@@ -1,5 +1,13 @@
 # weatherDash
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Table of Contents
+- [Overview](#overview)
+- [Technology Used](#technology-used)
+- [Deployed Link and Screenshot](#deployed-link-and-screenshot)
+- [Questions](#questions)
+
+## Overview
 Build a weather dashboard using the OpenWeather API.
 
 ## Technology Used
